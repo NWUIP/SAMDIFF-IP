@@ -1,5 +1,5 @@
 # SAMDIFF-IP
-This repository is the official code for SAMDIFF-IP
+This repository is the official code for SAMDIFF-IP.
 
 ## 💻Dependencies
 * pytorch==1.11.0
